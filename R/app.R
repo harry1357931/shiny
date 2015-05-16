@@ -14,7 +14,7 @@
 #' \code{print()} and the app will not be run. To make the app run, pass the app
 #' object to \code{print()} or \code{\link{runApp}()}.
 #'
-#' @param ui The UI definition of the app (for example, a call to
+#' @param ui The UI definition of the app (for example, a call  to
 #'   \code{fluidPage()} with nested controls)
 #' @param server A server function
 #' @param onStart A function that will be called before the app is actually run.
